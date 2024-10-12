@@ -1,1 +1,0 @@
-# Vulnerability-inspection-with-GDB
