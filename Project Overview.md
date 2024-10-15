@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is a basic keylogger written in assembly language for the Windows operating system. The keylogger captures keystrokes on the system and writes them to a log file. It demonstrates how to interact with the Windows API at a low level using assembly, providing insights into system calls, memory management aand low-level programming on the Windows platform.
+This project is a basic keylogger written in assembly language for the Windows operating system. The keylogger captures keystrokes on the system and writes them to a log file. It demonstrates how to interact with the Windows API at a low level using assembly, providing insights into system calls, memory management and low-level programming on the Windows platform.
 
 The project extends beyond simple keystroke logging by including additional features such as:
 - Stealth mode operation (running in the background without a visible window)
@@ -10,7 +10,7 @@ The project extends beyond simple keystroke logging by including additional feat
 
 ## Features
 
-1. **Capture Keystrokes:** The keylogger records all keystrokes, including special keys (e.g., Enter, Shift, Ctrl), and stores them in a log file.
+1. **Capture Keystrokes:** The keylogger records all keystrokes, including special keys (Enter, Shift, Ctrl...), and stores them in a log file.
 2. **Stealth Mode:** The program runs in the background without displaying a window or console to avoid detection.
 3. **Active Window Logging:** Logs the name of the active window to provide context for the captured keystrokes.
 4. **Periodic File Writing:** Writes the captured data to a log file every few seconds to ensure data is saved.
